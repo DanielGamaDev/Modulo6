@@ -2,7 +2,7 @@ let altura = prompt("Qual a altura?");
 
 let largura = prompt("Qual a largura?");
 
-function calculaAreaTotal(altura, largura){
+function calculaArea(altura, largura){
     a = altura;
     l = largura;
     areatotal = (a*l);
